@@ -17,6 +17,5 @@ training/data_keypoint_detection/
 *.cbm
 
 
-training/
 /.mypy_cache
 /utils/__pycache__
