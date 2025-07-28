@@ -1,0 +1,23 @@
+# Cartelle da ignorare
+models/
+output_videos/
+input_videos/
+runs/
+tracker_stubs/
+TrackNet/Dataset/
+training/runs/
+training/tennis-ball-detection-6/
+training/data_keypoint_detection/
+
+# File da ignorare
+*.DS_Store
+*.pt
+*.avi
+*.mp4
+*.cbm
+
+
+training/
+/.mypy_cache
+/utils/__pycache__
+TrackNet/
