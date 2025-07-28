@@ -20,4 +20,3 @@ training/data_keypoint_detection/
 training/
 /.mypy_cache
 /utils/__pycache__
-TrackNet/
